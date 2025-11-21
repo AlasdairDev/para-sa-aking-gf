@@ -5,7 +5,7 @@ function unlock() {
     const timeline = document.getElementById('memory-timeline');
     const message = document.getElementById('lock-message');
 
-    if (codeInput === '2306') {
+    if (codeInput === '1120') {
         window.location.href = 'Memories.html';
         lockScreen.classList.remove('active');
         timeline.classList.add('active');
@@ -65,4 +65,5 @@ function getMemoryDescription(title) {
     };
 
     return descriptions[title] || "A moment we'll never forget 💖";
+
         }
