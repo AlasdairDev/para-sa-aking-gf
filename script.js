@@ -53,8 +53,8 @@ function getMemoryDescription(title) {
         
         "That Awkward First Gig 🎸": "The music was loud, the crowd was chaotic, and we were both so shy! Haha. But honestly? That was the moment I knew. Amidst all the noise and distortion, seeing you there made everything feel calm.",
         
-        "First \"I Love You\" 🥺": "My heart was racing when those words finally came out. It wasn't just a phrase; it was my promise to you. Since that day, saying 'I love you' has been my favorite routine.",
-        
+        "First \"I Love You\" 🥺": "Sa chat mo unang sinabi, pero ramdam na ramdam ko. I stared at my screen smiling like an idiot before typing my reply. Since that notification, saying it back has been my favorite routine.",   
+      
         "Valorant Duos 🎮": "Whether we win, lose, or ikaw na naman ang bottom frag (okay lang, buhat naman kita 😉), playing with you is always the highlight of my day. You're my favorite teammate—in game and in real life.",
         
         "Shared Playlists 🎵": "From Shoegaze tracks to love songs. Sharing music with you feels like sharing a piece of my soul. Every song on our playlist reminds me of you now.",
@@ -68,3 +68,4 @@ function getMemoryDescription(title) {
 
     return descriptions[title] || "A moment we'll never forget 💖";
         }
+
