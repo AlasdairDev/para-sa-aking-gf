@@ -55,7 +55,7 @@ function getMemoryDescription(title) {
         
         "First \"I Love You\" 🥺": "Sa chat mo unang sinabi, pero ramdam na ramdam ko. I stared at my screen smiling like an idiot before typing my reply. Since that notification, saying it back has been my favorite routine.",   
       
-        "Valorant Duos 🎮": "Whether we win, lose, or ikaw na naman ang bottom frag (okay lang, buhat naman kita 😉), playing with you is always the highlight of my day. You're my favorite teammate—in game and in real life.",
+        "Valorant Duos 🎮": "Whether we win, lose, or ikaw na naman ang bottom frag (okay lang, buhat naman kita 😉), playing with you is always the highlight of my day. You're my favorite teammate, in game and in real life.",
         
         "Shared Playlists 🎵": "From Shoegaze tracks to love songs. Sharing music with you feels like sharing a piece of my soul. Every song on our playlist reminds me of you now.",
         
